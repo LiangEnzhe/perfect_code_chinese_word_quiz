@@ -1,0 +1,135 @@
+{
+            "地方 (dìfāng)": "place; area"
+        },
+        {
+            "往 (wǎng)": "in the direction of; to; towards"
+        },
+        {
+            "旁边 (pángbiān)": "beside; next to"
+        },
+        {
+            "喂 (wèi)": "hello (used when answering the phone)"
+        },
+        {
+            "祝 (zhù)": "to wish"
+        },
+        {
+            "礼物 (lǐwù)": "gift; present"
+        },
+        {
+            "告诉 (gàosù)": "to tell; to inform"
+        },
+        {
+            "附近 (fùjìn)": "nearbourhood; vicinity"
+        },
+        {
+            "送 (sòng)": "to give (as a gift)"
+        },
+        {
+            "巧克力 (qiǎokèlì)": "chocolate"
+        },
+        {
+            "笑 (xiào)": "to laugh; to smile"
+        },
+        {
+            "主意 (zhùyì)": "idea"
+        },
+        {
+            "着急 (zháojí)": "to be anxious; to worry"
+        },
+        {
+            "带 (dài)": "to bring; to take; lead"
+        },
+        {
+            "待 (dāi)": "to stay; to wait"
+        },
+        {
+            "宿舍 (sùshè)": "dormitory; hostel"
+        },
+        {
+            "一直 (yīzhí)": "straight; continuously"
+        },
+        {
+            "抓紧 (zhuā jǐn)": "hurry; clutch; firmly grasp"
+        },
+        {
+            "正在 (zhèngzài)": "in the process of; currently"
+        },
+        {
+            "对面 (duìmiàn)": "opposite; across from"
+        },
+        {
+            "路 (lù)": "road; route"
+        },
+        {
+            "然后 (ránhòu)": "then; afterwards"
+        },
+        {
+            "敲门 (qiāo mén)": "to knock on the door"
+        },
+        {
+            "平时 (píngshí)": "usually; ordinarily"
+        },
+        {
+            "等 (děng)": "to wait; to wait for"
+        },
+        {
+            "车站 (chēzhàn)": "bus stop; station"
+        },
+        {
+            "骑 (qí)": "to ride (a bicycle; horse; etc.)"
+        },
+        {
+            "慢 (màn)": "slow"
+        },
+        {
+            "房间号 (fángjiān hào)": "room number"
+        },
+        {
+            "比较 (bǐjiào)": "relatively; comparatively"
+        },
+        {
+            "刮 (guā)": "to blow (wind)"
+        },
+        {
+            "最 (zuì)": "most; -est (superlative)"
+        },
+        {
+            "温度 (wēndù)": "temperature"
+        },
+        {
+            "舒服 (shūfu)": "comfortable"
+        },
+        {
+            "网球 (wǎngqiú)": "tennis"
+        },
+        {
+            "低 (dī)": "low"
+        },
+        {
+            "杂志 (zázhì)": "magazine"
+        },
+        {
+            "介绍 (jièshào)": "to introduce"
+        },
+        {
+            "售货员 (shòuhuòyuán)": "salesperson"
+        },
+        {
+            "谢谢 (xièxie)": "thank you"
+        },
+        {
+            "一般 (yībān)": "general; ordinary"
+        },
+        {
+            "研究生 (yánjiūshēng)": "graduate student"
+        },
+        {
+            "幸福 (xìngfú)": "happy; happiness"
+        },
+        {
+            "专业 (zhuānyè)": "major; specialty"
+        },
+        {
+            "聚会 (jùhuì)": "party; gathering"
+        }

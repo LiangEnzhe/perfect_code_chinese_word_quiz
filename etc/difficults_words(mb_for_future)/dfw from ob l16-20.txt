@@ -1,0 +1,69 @@
+        {
+            "谦虚 (qiānxū)": "modest"
+        },
+        {
+            "祝贺 (zhùhè)": "to congratulate sb(on sth)"
+        },
+        {
+            "关系 (guānxì)": "relation; relationship; connection"
+        },
+        {
+            "精彩 (jīngcǎi)": "brilliant; wonderful"
+        },
+        {
+            "表演 (biǎoyǎn)": "to perform; act; play"
+        },
+        {
+            "演出 (yǎnchū)": "performance; show"
+        },
+        {
+            "成功 (chénggōng)": "succeed; successful"
+        },
+        {
+            "摸 (mō)": "to touch; to feel"
+        },
+        {
+            "稍等 (shāo děng)": "wait a moment; please hold on"
+        },
+        {
+            "质量 (zhì liàng)": "quality; mass (in physics)"
+        },
+        {
+            "购物 (gòu wù)": "go shopping; to shop"
+        },
+        {
+            "结账 (jié zhàng)": "to settle accounts; to pay the bill"
+        },
+        {
+            "发烧 (fā shāo)": "fever; to have a fever"
+        },
+        {
+            "检查 (jiǎn chá)": "check"
+        },
+        {
+            "肠胃 (cháng wèi)": "stomach and intestines; digestive system"
+        },
+        {
+            "害怕 (hài pà)": "be afraid of"
+        },
+        {
+            "影响 (yǐng xiǎng)": "to affect; interfere with"
+        },
+        {
+            "邀请 (yāo qǐng)": "to invite; invitation"
+        },
+        {
+            "亲戚 (qīn qi)": "relative; family member"
+        },
+        {
+            "环保 (huán bǎo)": "environmentally friendly"
+        },
+        {
+            "随便 (suí biàn)": "do as one pleases"
+        },
+        {
+            "推荐 (tuī jiàn)": "to recommend"
+        },
+        {
+            "赶紧 (gǎn jǐn)": "at once; quickly"
+        }

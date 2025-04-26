@@ -1,0 +1,78 @@
+{
+            "塑料袋 (sù liào dài)": "plastic bag"
+        },
+        {
+            "厉害 (lì hai)": "fierce; powerful; impressive"
+        },
+        {
+            "抱歉 (bào qiàn)": "sorry; apologetic"
+        },
+        {
+            "签证 (qiān zhèng)": "visa"
+        },
+        {
+            "宾馆 (bīn guǎn)": "hotel"
+        },
+        {
+            "眼镜 (yǎn jìng)": "glasses"
+        },
+	{
+            "大使馆 (dà shǐ guǎn)": "embassy"
+	},
+	{
+            "儿童 (ér tóng)": "child"
+	},
+	{
+            "京剧 (jīngjù)": "Peking opera"
+	},
+	{
+            "植物 (zhíwù)": "plant; vegetation"
+	},
+	{
+            "许多 (xǔduō)": "many; a lot of"
+	},
+        {
+            "历史 (lìshǐ)": "history"
+        },
+        {
+            "擦 (cā)": "to wipe; to rub"
+        },
+        {
+            "印象 (yìnxiàng)": "impression"
+        },
+	{
+            "满意 (mǎnyì)": "satisfied; pleased"
+	},
+        {
+            "增加 (zēngjiā)": "to increase"
+        },
+        {
+            "提供 (tígōng)": "to provide"
+        },
+        {
+            "态度 (tàidù)": "attitude"
+        },
+	{
+            "中餐厅 (zhōngcāntīng)": "Chinese restaurant"
+	},
+	{
+            "顾客 (gùkè)": "customer"
+	},
+	{
+            "礼貌 (lǐmào)": "politeness; manners
+	},
+        {
+            "太阳 (tài yáng)": "sun"
+        },
+        {
+            "奇怪 (qíguài)": "strange; weird"
+        },
+        {
+            "误会 (wùhuì)": "misunderstanding"
+        },
+	{
+            "修理 (xiūlǐ)": "to repair; to fix"
+	},
+	{
+            "律师 (lǜ shī)": "lawyer"
+	}

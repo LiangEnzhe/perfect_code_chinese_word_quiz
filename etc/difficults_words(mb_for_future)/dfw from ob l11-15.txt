@@ -1,0 +1,63 @@
+{
+            "瘦 (shòu)": "thin; skinny"
+        },
+        {
+            "容易 (róngyì)": "easy"
+        },
+        {
+            "当然 (dāngrán)": "of course"
+        },
+        {
+            "戴 (dài)": "to wear (accessories like hats; glasses)"
+        },
+        {
+            "光临 (guānglín)": "be present; to visit (polite expression)"
+        },
+        {
+            "流行 (liúxíng)": "popular; fashionable"
+        },
+        {
+            "结束 (jiéshù)": "to end; to finish"
+        },
+        {
+            "鼓励 (gǔlì)": "to encourage"
+        },
+        {
+            "逛街 (guàngjiē)": "to go shopping; to stroll (in the streets)"
+        },
+        {
+            "养成 (yǎngchéng)": "form; to develop (a habit)"
+        },
+        {
+            "收拾 (shōushi)": "to tidy up; to pack; put in order"
+        },
+        {
+            "辛苦 (xīnkǔ)": "hard; laborious; strenuous"
+        },
+        {
+            "电子邮件 (diànzǐ yóujiàn)": "email"
+        },
+        {
+            "熬夜 (áoyè)": "to stay up late; to burn the midnight oil"
+        },
+        {
+            "电脑 (diànnǎo)": "computer"
+        },
+        {
+            "标准 (biāozhǔn)": "standard"
+        },
+        {
+            "练习 (liànxí)": "practice; exercise"
+        },
+        {
+            "阅读 (yuèdú)": "read"
+        },
+        {
+            "积累 (jīlěi)": "to accumulate"
+        },
+        {
+            "感兴趣 (gǎn xìngqù)": "to be interested (in)"
+        },
+	{
+            "越来越 (yuèláiyuè)": "more and more",
+}

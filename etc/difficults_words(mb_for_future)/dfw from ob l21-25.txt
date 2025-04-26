@@ -1,0 +1,84 @@
+        {
+            "酱油 (jiàng yóu)": "soy sauce"
+        },
+        {
+            "三鲜馅 (sān xiān xiàn)": "three-delicacy filling"
+        },
+        {
+            "袋 (dài)": "bag"
+        },
+        {
+            "赢 (yíng)": "to win"
+        },
+        {
+            "邮局 (yóu jú)": "post office"
+        },
+        {
+            "寄 (jì)": "post; to send (a letter, parcel, etc.)"
+        },
+        {
+            "位置 (wèi zhì)": "place; location"
+        },
+        {
+            "铁杆 (tiě gǎn)": "loyal and reliable"
+        },
+        {
+            "歪 (wāi)": "tilted"
+        },
+        {
+            "支持 (zhī chí)": "to support"
+        },
+        {
+            "无论 (wú lùn)": "whatever; regardless of"
+        },
+        {
+            "联系 (lián xì)": "get in touch"
+        },
+        {
+            "吸引 (xī yǐn)": "to attract"
+        },
+        {
+            "贴 (tiē)": "to stick; to paste"
+        },
+        {
+            "墙 (qiáng)": "wall"
+        },
+        {
+            "假期 (jià qī)": "vacation"
+        },
+        {
+            "工艺品 (gōng yì pǐn)": "handicraft (artcile)"
+        },
+        {
+            "呼吸 (hū xī)": "to breathe"
+        },
+        {
+            "尽快 (jǐn kuài)": "as quickly as possible"
+        },
+        {
+            "消息 (xiāo xi)": "news; information"
+        },
+        {
+            "落 (là)": "to leave behind; forget to bring"
+        },
+        {
+            "辅导书 (fǔ dǎo shū)": "reference book"
+        },
+        {
+            "糟糕 (zāo gāo)": "terrible"
+        },
+        {
+            "填 (tián)": "to fill"
+        },
+        {
+            "无聊 (wú liáo)": "boring"
+        },
+        {
+            "失败 (shī bài)": "to fail"
+        },
+        {
+            "讨厌 (tǎo yàn)": "to dislike; hate"
+        },
+        {
+            "挑战 (tiǎo zhàn)": "challenge"
+        }

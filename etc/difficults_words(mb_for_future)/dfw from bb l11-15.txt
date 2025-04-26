@@ -1,0 +1,66 @@
+        {
+            "骄傲 (jiāo'ào)": "proud"
+        },
+        {
+            "价格 (jiàgé)": "price"
+        },
+        {
+            "转 (zhuǎn)": "to turn; to transfer"
+        },
+        {
+            "稍微 (shāowēi)": "a little; slightly"
+        },
+        {
+            "尽管 (jǐnguǎn)": "even though; feel free to"
+        },
+        {
+            "现金 (xiànjīn)": "cash"
+        },
+        {
+            "免费 (miǎnfèi)": "free of charge"
+        },
+        {
+            "羽绒服 (yǔróngfú)": "down jacket"
+        },
+        {
+            "保证 (bǎozhèng)": "to guarantee; to ensure"
+        },
+        {
+            "剩 (shèng)": "to remain; to be left"
+        },
+        {
+            "规定 (guīdìng)": "regulation; rule"
+        },
+        {
+            "受到 (shòudào)": "to receive; to be subject to"
+        },
+        {
+            "放弃 (fàng qì)": "to give up; to abandon"
+        },
+        {
+            "答案 (dá àn)": "answer; solution"
+        },
+        {
+            "有趣 (yǒu qù)": "interesting; fun"
+        },
+        {
+            "改变 (gǎi biàn)": "to change; to alter"
+        },
+        {
+            "总结 (zǒng jié)": "to summarize"
+        },
+        {
+            "成绩 (chéng jì)": "grades; achievement"
+        },
+        {
+            "转 (zhuǎn)": "to turn; to transfer"
+        },
+        {
+            "尽管 (jǐnguǎn)": "even though; feel free to"
+        },
+        {
+            "脱 (tuō)": "to take off; to shed"
+        },
+        {
+            "实际 (shí jì)": "practical; actual; reality"
+        }
