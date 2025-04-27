@@ -1,6 +1,5 @@
 import json, random, os, copy
 
-#Основные комманды
 print("Commands:\n",
       "stop = STOP the words flow,\n",
       "all = print ALL words in lesson,\n",
