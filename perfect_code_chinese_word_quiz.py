@@ -35,6 +35,10 @@ def choosebook():
             return "Green book"
         case "S":
             return "Science"
+        case "H":
+            return "HSK5"
+        case "K":
+            return "Keji"
         case _:
             return "Unknown name"
 
